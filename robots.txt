@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tazejah.com/sitemap.xml
